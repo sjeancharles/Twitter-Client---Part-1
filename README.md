@@ -4,6 +4,8 @@
 
 Time spent: **12** hours spent in total
 
+Submitted by: **Schadrac Jean Charles**
+
 ## User Stories
 
 
